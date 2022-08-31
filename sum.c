@@ -9,5 +9,7 @@ int  main()
     scanf("%d", &num2);
     sum =  sum + num1  + num2;
     printf("the sum is %d", sum);
+
+    // simple push test
     return 0;
 }
