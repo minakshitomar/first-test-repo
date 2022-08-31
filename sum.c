@@ -6,11 +6,6 @@ int  main()
     scanf("%d", &num1);
     printf("Enter number 2 to add:");
 
-    printf("Enter number 2 to add:");
-
-    printf("Enter number 2 to add:");
-
-    printf("Enter number 2 to add:");
     scanf("%d", &num2);
     sum =  sum + num1  + num2;
     printf("the sum is %d", sum);
